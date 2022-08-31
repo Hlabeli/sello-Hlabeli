@@ -1,0 +1,166 @@
+{
+    "profile":"",
+    "experience":
+    [
+        {
+            "what":"Web Developer",
+            "where":{
+                    "label": "Zeecom Technologies - Maseru, Lesotho",
+                    "link": "#"
+                },
+            "when":{
+                "start": "Jan-2021",
+                "end": "Present"
+            },
+            "description":"",
+            "accomplishments": [
+                    "Development of system designs and solution implementation based on user requirements.",
+                    "Testing and delivering software solutions.",
+                    "Offering tie 1 and 2 support to clients on prompt and solution updates and upgrade."
+                   
+                ]
+                
+        },
+        {
+            "what":"Opensource software (Contributor) ",
+            "where":{
+                    "label": "OpenMRS - Remotely",
+                    "link": "#"
+                },
+            "when":{
+                "start": "Jun-2019",
+                "end": "Dec-2020"
+            },
+            "description":"",
+            "accomplishments": [
+                    "Customized OpenMRS to develop electronic ERM system for tracking records.",
+                    "Also did some modules’ customization on openMRS android client and lately involved with Bahmni developments.",  
+                   "lately heavily involved with Bahmni developments."
+   
+                ]
+                
+        },
+        {
+            "what":"Mobile Application developer ",
+            "where":{
+                    "label": "Scifi Dynamics - Johannesburg, South Africa",
+                    "link": "#"
+                },
+            "when":{
+                "start": "Jun-2019",
+                "end": "Dec-2020"
+            },
+            "description":"",
+            "accomplishments": [
+                    "Design and implementation of mobile and web applications.",
+                    "Integration with third party applications.", 
+                    "Supporting users by developing documentation and assistance tools." 
+       
+                ]
+                
+        },
+        {
+            "what":"Java Developer (Trainee)",
+            "where":{
+                    "label": "JumpCO Holdings - Johannesburg, South Africa",
+                    "link": "#"
+                },
+            "when":{
+                "start": "Jun-2019",
+                "end": "Dec-2020"
+            },
+            
+            "accomplishments": [
+                    "Doing practical’s on software life cycle - information gathering, analysis, design, development, deployment and maintenance.",
+                    "Developing systems using java and other prominent technologies.",
+                    "JAVA (Oracle Certified Association and Oracle Certified Professional) training, assignments and exam preparations."
+
+                ]
+                
+        }
+    ]
+    ,"education":
+    [
+        {
+            "what":"BSc in Information Technology ",
+            "where":{
+                    "label": "Limkokwing University- Maseru, Lesotho",
+                    "link": "#"
+                },
+            "when":{
+                "start": "2014",
+                "end": "2018"
+            }    
+        },
+        {
+            "what":"Higher Certificate in Software Development",
+            "where":{
+                    "label": "Jumpco Software Labs - Johannesburg, South Africa",
+                    "link": "#"
+                },
+            "when":{
+                "start": "2018",
+                "end": "2019"
+            }    
+        },
+        {
+            "what":"Cambridge Overseas School Certificate (COSC)",
+            "where":{
+                    "label": "Ts'akholo High School - Mafeteng, Lesotho",
+                    "link": "#"
+                },
+            "when":{
+                "start": "2012",
+                "end": "2013"
+            }    
+        }
+    ]
+    
+    ,"skills": 
+    "", 
+    "certifications"
+    :[
+       
+   
+    {
+        "what": {"label": "Certified Network Security Specialist", "link":"#"},
+        "where":"International CyberSecurity Institute",
+        "when":"Aug-2020",
+        "description": "~40 hours of projects covering various topic in network security and cyber security."
+    },
+    {
+        "what": {"label": "Transitioning from Waterfall to Agile Project ", "link":"#"},
+        "where":"Coursera",
+        "when":"Jul-2020",
+        "description": "~10 hours of lectures and exercises/projects."
+    },
+    {
+        "what": {"label": "FinTech and the Transformation in Financial Services", "link":"#"},
+        "where":"Copenhagen Business School",
+        "when":"Jul-2019",
+        "description": "~25 hours of lectures and exercises/projects."
+    },
+    {
+        "what": {"label": "Predict Employee Turnover Using IBM Watson", "link":"#"},
+        "where":"IBM",
+        "when":"Apr-2019",
+        "description": "~15 hours of lectures and exercises/projects."
+    }
+
+    
+],"awards":[
+   
+    {
+        "what": {"label": "Awarded certificate of participation by Finmark Trust in collaboration with UNDP ", "link":"#"},
+        
+        "when":"2018",
+        "description": "Awarded for attending the seminar which was about Financial inclusion"
+    },
+    {
+        "what": {"label": "'Mampiletso best mathematics award", "link":"#"},
+        
+        "when":"2008",
+        "description": "Awarded quarterly for being top of the class during grade 7 in maths "
+    }  
+]
+}
